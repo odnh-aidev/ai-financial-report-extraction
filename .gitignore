@@ -1,0 +1,20 @@
+# Secret — never commit this
+.env
+
+# Virtual environment — too large, rebuilds from requirements.txt
+.venv/
+
+# Python noise
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional — remove this line if you want to share settings)
+.vscode/
+
+# Data files — keep synthetic reports local, not in the repo
+data/reports/*.json

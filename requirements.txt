@@ -1,0 +1,7 @@
+# Core Pipeline
+
+google-genai
+python-dotenv
+faiss-cpu
+numpy
+pandas
