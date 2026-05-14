@@ -1,11 +1,12 @@
 import os
 import json
 import random
+from urllib import response
 from dotenv import load_dotenv
-from google import genai
+from anthropic import Anthropic
 
 load_dotenv()
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 def generate_financials(company: str, sector: str, base_revenue_m: float) -> dict:
     revenue = base_revenue_m * random.uniform(0.95, 1.12)
@@ -45,10 +46,53 @@ Include:
 
 Write in formal 10-Q SEC filing style. 400-500 words. No bullet points."""
 
-    response = client.models.generate_content(
-        model="gemini-2.0-flash-lite",
-        contents=prompt
-    )
-    return response.text
+    response = client.messages.create(
+    model="claude-haiku-4-5-20251001",
+    max_tokens=1024,
+    messages=[{
+        "role": "user",
+        "content": prompt
+    }]
+)
+    return response.content[0].text
 
+def generate_report(company: str, sector: str, base_revenue_m: float) -> dict:
+    print(f"  Generating financials for {company}...")
+    financials = generate_financials(company, sector, base_revenue_m)
 
+    print(f"  Calling Claude for narrative...")
+    narrative = generate_report_narrative(financials)
+
+    return {
+        "ground_truth": financials,
+        "document":     narrative
+    }
+
+def main():
+    companies = [
+        ("Meridian Capital Group",  "Investment Banking",  4200),
+        ("Archway Financial",       "Asset Management",    1800),
+        ("Crestline Securities",    "Brokerage",           950),
+        ("Vantage Advisory Group",  "Wealth Management",   1200),
+        ("Halcyon Credit Partners", "Credit & Lending",    2600),
+    ]
+
+    os.makedirs("data/reports", exist_ok=True)
+
+    reports = []
+    for company, sector, revenue in companies:
+        report = generate_report(company, sector, revenue)
+        print(json.dumps(report, indent=2))
+        reports.append(report)
+        filename = company.lower().replace(" ", "_") + ".json"
+        filepath = os.path.join("data", "reports", filename)
+        with open(filepath, "w") as f:
+            json.dump(report, f, indent=2)
+        print(f"  Saved → {filepath}")
+
+    with open(os.path.join("data", "reports", "_all_reports.json"), "w") as f:
+        json.dump(reports, f, indent=2)
+    print(f"\nDone — {len(reports)} reports saved.")
+
+if __name__ == "__main__":
+    main()
