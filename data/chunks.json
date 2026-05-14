@@ -1,0 +1,242 @@
+[
+  {
+    "chunk_id": 0,
+    "company": "Meridian Capital Group",
+    "ground_truth": {
+      "company": "Meridian Capital Group",
+      "sector": "Investment Banking",
+      "revenue_m": 4240.3,
+      "ebitda_m": 1180.9,
+      "ebitda_margin_pct": 27.8,
+      "net_income_m": 555.7,
+      "eps": 1257.61,
+      "guidance_low_m": 4367.5,
+      "guidance_high_m": 4579.6
+    },
+    "chunk": "# MERIDIAN CAPITAL GROUP, INC. ## Q3 2024 Earnings Report Excerpt **Management's Discussion and Analysis of Financial Condition and Results of Operations** Meridian Capital Group delivered solid third-quarter results driven by sustained momentum across our core investment banking and capital markets divisions. Total revenue for the quarter reached $4,240.3 million, reflecting robust client activity and favorable market conditions that supported advisory and underwriting services. The strong revenue performance translated into an EBITDA of $1,180.9 million, representing a healthy 27.8 percent margin that demonstrates our operational leverage and disciplined cost management. Net income for the period totaled $555.7 million, down slightly from the prior year quarter due to elevated investment in technology infrastructure and international expansion initiatives. We view these strategic investments as essential to our competitive positioning and long-term growth trajectory. Our diversified business model continued to generate balanced returns across multiple revenue streams. Investment banking and advisory services contributed approximately $2,156.4 million in quarterly revenue, while our capital markets and trading operations generated $1,487.2 million, with the balance derived from wealth management and other divisions. This segmentation reflects our success in serving institutional and high-net-worth clients across multiple product categories and geographies. \"We are pleased with Q3's performance, particularly"
+  },
+  {
+    "chunk_id": 1,
+    "company": "Meridian Capital Group",
+    "ground_truth": {
+      "company": "Meridian Capital Group",
+      "sector": "Investment Banking",
+      "revenue_m": 4240.3,
+      "ebitda_m": 1180.9,
+      "ebitda_margin_pct": 27.8,
+      "net_income_m": 555.7,
+      "eps": 1257.61,
+      "guidance_low_m": 4367.5,
+      "guidance_high_m": 4579.6
+    },
+    "chunk": "from wealth management and other divisions. This segmentation reflects our success in serving institutional and high-net-worth clients across multiple product categories and geographies. \"We are pleased with Q3's performance, particularly given the complex macroeconomic backdrop,\" said Michael Rothstein, Chief Executive Officer and President. \"Our net income of $555.7 million and diluted earnings per share of $1,257.61 represent excellent shareholder value creation, and we believe our operational foundation is well-positioned to capitalize on anticipated market opportunities heading into year-end and beyond.\" **Forward-Looking Guidance and Outlook** Meridian is providing full-year 2024 revenue guidance in the range of $4,367.5 million to $4,579.6 million, reflecting management's constructive view on capital markets activity, sustained M&A demand, and continued expansion in emerging markets. This guidance assumes a stable interest rate environment and moderate growth in average assets under management. The midpoint of our guidance range implies sequential revenue improvement through Q4 2024, supported by anticipated closes on several large transactions currently in advanced stages of negotiation and incremental contributions from recent technology acquisitions. We expect to maintain EBITDA margins within our historical 27 to 29 percent range, though margins may compress slightly in the near term due to ongoing investments in our digital advisory platform and"
+  },
+  {
+    "chunk_id": 2,
+    "company": "Meridian Capital Group",
+    "ground_truth": {
+      "company": "Meridian Capital Group",
+      "sector": "Investment Banking",
+      "revenue_m": 4240.3,
+      "ebitda_m": 1180.9,
+      "ebitda_margin_pct": 27.8,
+      "net_income_m": 555.7,
+      "eps": 1257.61,
+      "guidance_low_m": 4367.5,
+      "guidance_high_m": 4579.6
+    },
+    "chunk": "maintain EBITDA margins within our historical 27 to 29 percent range, though margins may compress slightly in the near term due to ongoing investments in our digital advisory platform and expanded compliance infrastructure. Capital allocation priorities remain focused on organic growth investments, selective acquisitions, and maintaining robust capital ratios well above regulatory minimums. Management will continue to monitor macroeconomic indicators closely and adjust operational plans as necessary to ensure consistent profitability and shareholder returns."
+  },
+  {
+    "chunk_id": 0,
+    "company": "Archway Financial",
+    "ground_truth": {
+      "company": "Archway Financial",
+      "sector": "Asset Management",
+      "revenue_m": 1914.3,
+      "ebitda_m": 588.3,
+      "ebitda_margin_pct": 30.7,
+      "net_income_m": 380.8,
+      "eps": 482.4,
+      "guidance_low_m": 1971.7,
+      "guidance_high_m": 2067.4
+    },
+    "chunk": "# ARCHWAY FINANCIAL GROUP, INC. ## SELECTED FINANCIAL DATA AND MD&A EXCERPT ### Third Quarter 2024 Form 10-Q **Management's Discussion and Analysis of Financial Condition and Results of Operations** Third quarter results reflect strong performance across our diversified asset management platform, driven by favorable market conditions and continued client inflows. Total revenue for the three months ended September 30, 2024 reached $1,914.3 million, representing solid growth trajectory supported by both management fee expansion and performance fee contributions. The Company achieved EBITDA of $588.3 million, representing a 30.7% margin, which demonstrates the operating leverage inherent in our business model and our commitment to disciplined cost management. Net income for the quarter totaled $380.8 million, or $482.4 per diluted share, reflecting the benefits of our strategic investments in technology infrastructure and talent acquisition completed throughout the fiscal year. These results underscore the effectiveness of our multi-asset class strategy and the resilience of our client relationships across institutional and high-net-worth segments. Assets under management and advisement remained stable despite modest market volatility, while our alternatives platform continued to experience meaningful expansion. Segment revenue contributions were well-distributed across our operating divisions, with Institutional Asset Management generating $742.6 million in quarterly revenue, while our Alternatives"
+  },
+  {
+    "chunk_id": 1,
+    "company": "Archway Financial",
+    "ground_truth": {
+      "company": "Archway Financial",
+      "sector": "Asset Management",
+      "revenue_m": 1914.3,
+      "ebitda_m": 588.3,
+      "ebitda_margin_pct": 30.7,
+      "net_income_m": 380.8,
+      "eps": 482.4,
+      "guidance_low_m": 1971.7,
+      "guidance_high_m": 2067.4
+    },
+    "chunk": "our alternatives platform continued to experience meaningful expansion. Segment revenue contributions were well-distributed across our operating divisions, with Institutional Asset Management generating $742.6 million in quarterly revenue, while our Alternatives and Solutions segment contributed $651.9 million, and our Wealth Management division accounted for $519.8 million in the quarter. This balanced revenue composition reduces concentration risk and provides multiple growth vectors moving forward. \"Our third quarter results demonstrate the durability of our business model and our teams' ability to execute effectively in complex market environments,\" stated Archway's Chief Executive Officer in prepared remarks. \"The achievement of a 30.7% EBITDA margin while maintaining our service excellence standards reflects disciplined operational execution, and we remain confident in our ability to deliver sustainable growth for our shareholders while meeting the evolving needs of our clients.\" **Forward-Looking Guidance and Outlook** For the full fiscal year 2024, management is establishing revenue guidance in the range of $1,971.7 million to $2,067.4 million. This guidance reflects management's expectation of continued market stability, incremental net inflows across our primary business lines, and normalized performance fee realization. The Company believes this range appropriately captures the opportunities within our existing client base while accounting for macroeconomic uncertainties that could impact capital"
+  },
+  {
+    "chunk_id": 2,
+    "company": "Archway Financial",
+    "ground_truth": {
+      "company": "Archway Financial",
+      "sector": "Asset Management",
+      "revenue_m": 1914.3,
+      "ebitda_m": 588.3,
+      "ebitda_margin_pct": 30.7,
+      "net_income_m": 380.8,
+      "eps": 482.4,
+      "guidance_low_m": 1971.7,
+      "guidance_high_m": 2067.4
+    },
+    "chunk": "business lines, and normalized performance fee realization. The Company believes this range appropriately captures the opportunities within our existing client base while accounting for macroeconomic uncertainties that could impact capital markets activity. Management's guidance assumes no material acquisitions or divestitures beyond those previously announced, and incorporates current market valuations and interest rate assumptions. The Company plans to maintain disciplined expense management while continuing strategic investments in digital capabilities and emerging asset classes that align with evolving client demands. Quarterly results may fluctuate based on market-driven performance fees and seasonal compensation patterns, and investors should consider this guidance in conjunction with the risk factors disclosed in our annual 10-K filing."
+  },
+  {
+    "chunk_id": 0,
+    "company": "Crestline Securities",
+    "ground_truth": {
+      "company": "Crestline Securities",
+      "sector": "Brokerage",
+      "revenue_m": 1000.8,
+      "ebitda_m": 288.2,
+      "ebitda_margin_pct": 28.8,
+      "net_income_m": 182.9,
+      "eps": 548.17,
+      "guidance_low_m": 1030.9,
+      "guidance_high_m": 1080.9
+    },
+    "chunk": "# CRESTLINE SECURITIES, INC. ## SELECTED FINANCIAL DATA AND MANAGEMENT'S DISCUSSION AND ANALYSIS ### Third Quarter 2024 **FINANCIAL PERFORMANCE OVERVIEW** Crestline Securities delivered solid operational results in the third quarter of 2024, generating total revenue of $1,000.8 million, representing a modest increase from the prior year period driven by elevated client activity in equities and fixed income trading. Operating expenses remained well-controlled throughout the quarter, resulting in EBITDA of $288.2 million, which equates to a 28.8% margin and reflects our continued disciplined cost management despite inflationary pressures in compensation and technology infrastructure. Net income for the quarter reached $182.9 million, or $548.17 per diluted share, demonstrating the strength of our core business operations and the effectiveness of our capital allocation strategy. **SEGMENT REVENUE PERFORMANCE** Our diversified business model continued to perform effectively across all major divisions during the third quarter. Revenue from our Equities and Trading Services segment contributed $412.3 million to total quarterly revenue, while our Fixed Income and Credit Solutions division generated $338.5 million, and our Wealth Management and Advisory Services segment produced $249.9 million, with the remainder attributable to other operating segments and ancillary services. This balanced revenue distribution underscores the resilience of our franchise and reduces"
+  },
+  {
+    "chunk_id": 1,
+    "company": "Crestline Securities",
+    "ground_truth": {
+      "company": "Crestline Securities",
+      "sector": "Brokerage",
+      "revenue_m": 1000.8,
+      "ebitda_m": 288.2,
+      "ebitda_margin_pct": 28.8,
+      "net_income_m": 182.9,
+      "eps": 548.17,
+      "guidance_low_m": 1030.9,
+      "guidance_high_m": 1080.9
+    },
+    "chunk": "and Advisory Services segment produced $249.9 million, with the remainder attributable to other operating segments and ancillary services. This balanced revenue distribution underscores the resilience of our franchise and reduces our reliance on any single revenue stream, positioning us well for continued stability regardless of market conditions. **MANAGEMENT COMMENTARY** \"We are pleased with our third quarter performance, which reflects disciplined execution across our platform and the strong engagement of our client base,\" stated James R. Whitmore, President and Chief Executive Officer. \"Our 28.8% EBITDA margin demonstrates the operational leverage inherent in our business model, and we remain focused on driving shareholder value while investing in technology and talent to strengthen our competitive position. The $548.17 earnings per share result reflects both the strength of our revenue generation and our commitment to efficient capital management.\" **FULL YEAR 2024 GUIDANCE** Based on current market conditions, client activity trends, and anticipated seasonal patterns in the fourth quarter, Crestline Securities is establishing full year 2024 revenue guidance in the range of $1,030.9 million to $1,080.9 million. This guidance reflects management's expectation of moderate growth in the final quarter relative to historical trends and incorporates assumptions regarding continued client engagement, normal market volatility, and the"
+  },
+  {
+    "chunk_id": 2,
+    "company": "Crestline Securities",
+    "ground_truth": {
+      "company": "Crestline Securities",
+      "sector": "Brokerage",
+      "revenue_m": 1000.8,
+      "ebitda_m": 288.2,
+      "ebitda_margin_pct": 28.8,
+      "net_income_m": 182.9,
+      "eps": 548.17,
+      "guidance_low_m": 1030.9,
+      "guidance_high_m": 1080.9
+    },
+    "chunk": "$1,080.9 million. This guidance reflects management's expectation of moderate growth in the final quarter relative to historical trends and incorporates assumptions regarding continued client engagement, normal market volatility, and the absence of any material disruptive events. We believe this guidance represents a reasonable and achievable target that balances our commitment to organic growth with prudent capital management. The Company will continue to evaluate market conditions and client demand throughout the remainder of the fiscal year and will update guidance accordingly if material changes to our operating environment emerge."
+  },
+  {
+    "chunk_id": 0,
+    "company": "Vantage Advisory Group",
+    "ground_truth": {
+      "company": "Vantage Advisory Group",
+      "sector": "Wealth Management",
+      "revenue_m": 1303.4,
+      "ebitda_m": 334.6,
+      "ebitda_margin_pct": 25.7,
+      "net_income_m": 190.4,
+      "eps": 899.71,
+      "guidance_low_m": 1342.5,
+      "guidance_high_m": 1407.7
+    },
+    "chunk": "# VANTAGE ADVISORY GROUP, INC. ## SELECTED FINANCIAL DATA AND MANAGEMENT'S DISCUSSION & ANALYSIS ### Third Quarter 2024 **Management's Discussion and Analysis** Vantage Advisory Group delivered solid operational performance in the third quarter, generating total revenue of $1,303.4 million, representing consistent growth across our wealth management and advisory service lines. The quarter's results reflected disciplined expense management and improved operating leverage, as our EBITDA totaled $334.6 million, yielding a healthy 25.7% margin despite a modestly challenging macroeconomic environment. Net income for the quarter reached $190.4 million, which translated to diluted earnings per share of $899.71, demonstrating our ability to convert revenue growth into meaningful shareholder value. The company's consolidated balance sheet remains well-capitalized with substantial liquidity, positioning us favorably to execute on strategic initiatives while maintaining our commitment to returning capital to shareholders through our regular dividend program. Our segment revenue composition this quarter reflected the diversified nature of our business platform. Wealth Management Services contributed the largest share at approximately $782.1 million, benefiting from higher average assets under management and elevated client activity levels, while our Advisory and Consulting segment generated $347.8 million in revenue, and our Alternative Investments division contributed $173.5 million, reflecting sustained demand for our specialized"
+  },
+  {
+    "chunk_id": 1,
+    "company": "Vantage Advisory Group",
+    "ground_truth": {
+      "company": "Vantage Advisory Group",
+      "sector": "Wealth Management",
+      "revenue_m": 1303.4,
+      "ebitda_m": 334.6,
+      "ebitda_margin_pct": 25.7,
+      "net_income_m": 190.4,
+      "eps": 899.71,
+      "guidance_low_m": 1342.5,
+      "guidance_high_m": 1407.7
+    },
+    "chunk": "and elevated client activity levels, while our Advisory and Consulting segment generated $347.8 million in revenue, and our Alternative Investments division contributed $173.5 million, reflecting sustained demand for our specialized institutional solutions. \"We are pleased with our Q3 execution, particularly the expansion of our EBITDA margin to 25.7%, which underscores the scalability of our business model and the effectiveness of our operational improvements,\" said Margaret Chen, Chief Executive Officer. \"Our diluted EPS of $899.71 reflects not only top-line growth but also our disciplined approach to capital allocation and cost management. Client engagement remains robust across all segments, and our pipeline of high-net-worth prospects continues to expand.\" **Forward Guidance** Looking ahead to the full fiscal year 2024, management has updated its revenue guidance to a range of $1,342.5 million to $1,407.7 million, reflecting anticipated seasonal strength in the fourth quarter and the contribution of recent client acquisitions. This guidance assumes continued moderate growth in assets under management, stable fee realization, and no material impact from unforeseen macroeconomic disruptions. The midpoint of our revised guidance suggests full-year revenue growth of approximately 6.5% from fiscal 2023 levels, consistent with our long-term strategic objectives. We anticipate that operating leverage will continue to support margin"
+  },
+  {
+    "chunk_id": 2,
+    "company": "Vantage Advisory Group",
+    "ground_truth": {
+      "company": "Vantage Advisory Group",
+      "sector": "Wealth Management",
+      "revenue_m": 1303.4,
+      "ebitda_m": 334.6,
+      "ebitda_margin_pct": 25.7,
+      "net_income_m": 190.4,
+      "eps": 899.71,
+      "guidance_low_m": 1342.5,
+      "guidance_high_m": 1407.7
+    },
+    "chunk": "our revised guidance suggests full-year revenue growth of approximately 6.5% from fiscal 2023 levels, consistent with our long-term strategic objectives. We anticipate that operating leverage will continue to support margin expansion in the fourth quarter, though we remain cognizant of competitive pressures in our talent retention and investment research capabilities. Management will provide additional color on full-year 2024 results and preliminary 2025 guidance during our fourth quarter earnings call currently scheduled for late January 2025."
+  },
+  {
+    "chunk_id": 0,
+    "company": "Halcyon Credit Partners",
+    "ground_truth": {
+      "company": "Halcyon Credit Partners",
+      "sector": "Credit & Lending",
+      "revenue_m": 2682.8,
+      "ebitda_m": 522.9,
+      "ebitda_margin_pct": 19.5,
+      "net_income_m": 294.7,
+      "eps": 937.41,
+      "guidance_low_m": 2763.3,
+      "guidance_high_m": 2897.5
+    },
+    "chunk": "# HALCYON CREDIT PARTNERS, INC. ## Q3 2024 EARNINGS REPORT EXCERPT **MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS** Halcyon Credit Partners delivered solid operational performance in the third quarter of 2024, generating total revenue of $2,682.8 million, representing a modest increase from prior year comparable periods despite a challenging macroeconomic environment characterized by elevated interest rates and selective credit deterioration in certain consumer segments. The Company maintained disciplined cost management practices throughout the quarter, resulting in EBITDA of $522.9 million and a corresponding EBITDA margin of 19.5%, which reflects the operational leverage embedded within our diversified lending platform. Net income attributable to common shareholders totaled $294.7 million for the quarter, translating to diluted earnings per share of $937.41. This performance underscores management's commitment to balancing growth initiatives with prudent risk management and shareholder value creation. The Company's credit metrics remained relatively stable, with non-performing loan ratios consistent with historical averages, though we continue to monitor economic indicators closely given potential headwinds in consumer credit quality during the final quarter of the year. Our business generated revenue across three primary operating segments during the third quarter. The Core Consumer Lending division contributed $1,187.4 million in revenue, buoyed"
+  },
+  {
+    "chunk_id": 1,
+    "company": "Halcyon Credit Partners",
+    "ground_truth": {
+      "company": "Halcyon Credit Partners",
+      "sector": "Credit & Lending",
+      "revenue_m": 2682.8,
+      "ebitda_m": 522.9,
+      "ebitda_margin_pct": 19.5,
+      "net_income_m": 294.7,
+      "eps": 937.41,
+      "guidance_low_m": 2763.3,
+      "guidance_high_m": 2897.5
+    },
+    "chunk": "the final quarter of the year. Our business generated revenue across three primary operating segments during the third quarter. The Core Consumer Lending division contributed $1,187.4 million in revenue, buoyed by higher origination volumes and improved pricing dynamics, while our Commercial Credit Solutions segment delivered $892.6 million in revenue through a combination of portfolio management initiatives and disciplined underwriting across middle-market borrowers, with the remainder of total revenue derived from our Asset Management and Other operations, which generated $602.8 million through successful portfolio monetization activities and ancillary fee income. \"We are pleased with the third quarter results, particularly our ability to expand EBITDA margins to 19.5% while maintaining conservative underwriting standards across our portfolio,\" said Margaret Chen, Chief Executive Officer of Halcyon Credit Partners. \"Our diluted earnings per share of $937.41 demonstrates the earnings accretion flowing through to shareholders, and we remain confident in our strategic positioning heading into year-end.\" **FISCAL YEAR 2024 GUIDANCE** Based on current business trends, market conditions, and the performance delivered through the first three quarters of 2024, management is revising its full-year 2024 revenue guidance to a range of $2,763.3 million to $2,897.5 million. This guidance reflects anticipated seasonal strength in the fourth quarter, including"
+  },
+  {
+    "chunk_id": 2,
+    "company": "Halcyon Credit Partners",
+    "ground_truth": {
+      "company": "Halcyon Credit Partners",
+      "sector": "Credit & Lending",
+      "revenue_m": 2682.8,
+      "ebitda_m": 522.9,
+      "ebitda_margin_pct": 19.5,
+      "net_income_m": 294.7,
+      "eps": 937.41,
+      "guidance_low_m": 2763.3,
+      "guidance_high_m": 2897.5
+    },
+    "chunk": "of 2024, management is revising its full-year 2024 revenue guidance to a range of $2,763.3 million to $2,897.5 million. This guidance reflects anticipated seasonal strength in the fourth quarter, including typical year-end credit demand patterns and anticipated portfolio gains, offset partially by conservative assumptions regarding potential credit normalization in certain segments. The Company expects to maintain EBITDA margins within a range of 18.0% to 19.5% for the full year, consistent with our demonstrated operational efficiency. This guidance assumes no material deterioration in macroeconomic conditions, continued access to wholesale funding markets at current rate levels, and stable competitive dynamics within our primary lending verticals. Management will continue to monitor leading economic indicators and adjust guidance as appropriate during future earnings announcements."
+  }
+]
