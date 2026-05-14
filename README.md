@@ -4,7 +4,7 @@ An end-to-end pipeline for extracting structured financial data
 from earnings reports using RAG and LLM-based structured output.
 
 ## Stack
-- Python, Gemini API (generation + embeddings)
+- Python, Anthropic API (generation + embeddings)
 - FAISS (local vector search) → Databricks Vector Search
 - MLflow experiment tracking
 - Delta Lake + Unity Catalog
